@@ -1,0 +1,9 @@
+.button-container {
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  .refresh-button {
+    font-size: 0.8em; /* This will make the refresh button smaller */
+    margin-right: 10px; /* This will add some space between the buttons */
+  }
